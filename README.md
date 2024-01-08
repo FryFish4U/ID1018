@@ -1,2 +1,3 @@
 # ID1018
-files relevant to course ID1018, includes assignments together with my solutions.
+Files relevant to KTH course 'ID1018'.
+Includes assignments together with my solutions.
